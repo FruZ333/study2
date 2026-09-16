@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"study/Study2/feature1"
-	"study/Study2/feature2"
+	"study2/feature1"
+	"study2/feature2"
 )
 
 func main() {
-	fmt.Println("Hello, Git!")	
+	fmt.Println("Hello, Git!")
 
 	feature1.Feature1()
 
